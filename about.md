@@ -18,7 +18,7 @@ you want to get in touch, send me a message on [Telegram](https://t.me/markjeee)
 
 A list of stuffs i have worked on:
 
-[markjeee.github.io](https://markjeee.github.io) - this website, a place i share code and do experiments.
+[markjeee.github.io](https://github.com/markjeee/markjeee.github.io) - this website, a place i share code and do experiments.
 
 [exercism-solutions](https://github.com/markjeee/exercism-solutions) - my answers to challenges in exercism. as they say, practice makes perfect.
 
