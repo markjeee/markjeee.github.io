@@ -22,6 +22,8 @@ A list of stuffs i have worked on:
 
 [exercism-solutions](https://github.com/markjeee/exercism-solutions) - my answers to challenges in exercism. as they say, practice makes perfect.
 
+[cebucodecamp/cableguy](https://github.com/cebucodecamp/cableguy) - compile configuration files based on a template and a cabling DB. Cabling DB is a key-value store, defined using a ruby-based DSL.
+
 [cebucodecamp/uno](https://github.com/cebucodecamp/uno) - this is a programming exercise for anyone who wants to try Haskell by implementing the [Uno game](https://en.wikipedia.org/wiki/Uno_(card_game)). It's designed to be a progressive way of learning, with test codes provided, and the coder just needs to implement the functions to pass the tests.
 
 [cebucodecamp/exploding](https://github.com/cebucodecamp/exploding) - another programming exercise, similar to uno above, but based in the [Exploding Kittens](https://www.explodingkittens.com/) card game.
@@ -31,4 +33,3 @@ A list of stuffs i have worked on:
 [rubygems-mirror](https://github.com/markjeee/rubygems-mirror) - a forked rubygems-mirror to support custom location of config file.
 
 [Socket.IO-rack](https://github.com/markjeee/Socket.IO-rack) - a server-side, rack-middleware for the Socket.IO JS framework. A bit old, and unmaintained.
-
