@@ -20,6 +20,8 @@ A list of stuffs i have worked on:
 
 [markjeee.github.io](https://markjeee.github.io) - this website, a place i share code and do experiments.
 
+[exercism-solutions](https://github.com/markjeee/exercism-solutions) - my answers to challenges in exercism. as they say, practice makes perfect.
+
 [cebucodecamp/uno](https://github.com/cebucodecamp/uno) - this is a programming exercise for anyone who wants to try Haskell by implementing the [Uno game](https://en.wikipedia.org/wiki/Uno_(card_game)). It's designed to be a progressive way of learning, with test codes provided, and the coder just needs to implement the functions to pass the tests.
 
 [cebucodecamp/exploding](https://github.com/cebucodecamp/exploding) - another programming exercise, similar to uno above, but based in the [Exploding Kittens](https://www.explodingkittens.com/) card game.
