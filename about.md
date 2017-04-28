@@ -22,6 +22,8 @@ A list of stuffs i have worked on:
 
 [exercism-solutions](https://github.com/markjeee/exercism-solutions) - my answers to challenges in exercism. as they say, practice makes perfect.
 
+[nlevel/thomas](https://github.com/nlevel/thomas) - thomas the docker builder. a mix of docker build scripts for various services/frameworks used in a continuous delivery pipeline.
+
 [cebucodecamp/cableguy](https://github.com/cebucodecamp/cableguy) - compile configuration files based on a template and a cabling DB. Cabling DB is a key-value store, defined using a ruby-based DSL.
 
 [cebucodecamp/uno](https://github.com/cebucodecamp/uno) - this is a programming exercise for anyone who wants to try Haskell by implementing the [Uno game](https://en.wikipedia.org/wiki/Uno_(card_game)). It's designed to be a progressive way of learning, with test codes provided, and the coder just needs to implement the functions to pass the tests.
